@@ -1,0 +1,343 @@
+PassengerId,Name,Sex,Age,Pclass,Survival Status
+2,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,1,Survived
+3,"Heikkinen, Miss. Laina",female,26.0,3,Survived
+4,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35.0,1,Survived
+9,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27.0,3,Survived
+10,"Nasser, Mrs. Nicholas (Adele Achem)",female,14.0,2,Survived
+11,"Sandstrom, Miss. Marguerite Rut",female,4.0,3,Survived
+12,"Bonnell, Miss. Elizabeth",female,58.0,1,Survived
+16,"Hewlett, Mrs. (Mary D Kingcome) ",female,55.0,2,Survived
+18,"Williams, Mr. Charles Eugene",male,,2,Survived
+20,"Masselmani, Mrs. Fatima",female,,3,Survived
+22,"Beesley, Mr. Lawrence",male,34.0,2,Survived
+23,"McGowan, Miss. Anna ""Annie""",female,15.0,3,Survived
+24,"Sloper, Mr. William Thompson",male,28.0,1,Survived
+26,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38.0,3,Survived
+29,"O'Dwyer, Miss. Ellen ""Nellie""",female,,3,Survived
+32,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,,1,Survived
+33,"Glynn, Miss. Mary Agatha",female,,3,Survived
+37,"Mamee, Mr. Hanna",male,,3,Survived
+40,"Nicola-Yarred, Miss. Jamila",female,14.0,3,Survived
+44,"Laroche, Miss. Simonne Marie Anne Andree",female,3.0,2,Survived
+45,"Devaney, Miss. Margaret Delia",female,19.0,3,Survived
+48,"O'Driscoll, Miss. Bridget",female,,3,Survived
+53,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49.0,1,Survived
+54,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29.0,2,Survived
+56,"Woolner, Mr. Hugh",male,,1,Survived
+57,"Rugg, Miss. Emily",female,21.0,2,Survived
+59,"West, Miss. Constance Mirium",female,5.0,2,Survived
+62,"Icard, Miss. Amelie",female,38.0,1,Survived
+66,"Moubarek, Master. Gerios",male,,3,Survived
+67,"Nye, Mrs. (Elizabeth Ramell)",female,29.0,2,Survived
+69,"Andersson, Miss. Erna Alexandra",female,17.0,3,Survived
+75,"Bing, Mr. Lee",male,32.0,3,Survived
+79,"Caldwell, Master. Alden Gates",male,0.83,2,Survived
+80,"Dowdell, Miss. Elizabeth",female,30.0,3,Survived
+82,"Sheerlinck, Mr. Jan Baptist",male,29.0,3,Survived
+83,"McDermott, Miss. Brigdet Delia",female,,3,Survived
+85,"Ilett, Miss. Bertha",female,17.0,2,Survived
+86,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33.0,3,Survived
+89,"Fortune, Miss. Mabel Helen",female,23.0,1,Survived
+98,"Greenfield, Mr. William Bertram",male,23.0,1,Survived
+99,"Doling, Mrs. John T (Ada Julia Bone)",female,34.0,2,Survived
+107,"Salkjelsvik, Miss. Anna Kristine",female,21.0,3,Survived
+108,"Moss, Mr. Albert Johan",male,,3,Survived
+110,"Moran, Miss. Bertha",female,,3,Survived
+124,"Webber, Miss. Susan",female,32.5,2,Survived
+126,"Nicola-Yarred, Master. Elias",male,12.0,3,Survived
+128,"Madsen, Mr. Fridtjof Arne",male,24.0,3,Survived
+129,"Peter, Miss. Anna",female,,3,Survived
+134,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29.0,2,Survived
+137,"Newsom, Miss. Helen Monypeny",female,19.0,1,Survived
+142,"Nysten, Miss. Anna Sofia",female,22.0,3,Survived
+143,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24.0,3,Survived
+147,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27.0,3,Survived
+152,"Pears, Mrs. Thomas (Edith Wearne)",female,22.0,1,Survived
+157,"Gilnagh, Miss. Katherine ""Katie""",female,16.0,3,Survived
+162,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40.0,2,Survived
+166,"Goldsmith, Master. Frank John William ""Frankie""",male,9.0,3,Survived
+167,"Chibnall, Mrs. (Edith Martha Bowerman)",female,,1,Survived
+173,"Johnson, Miss. Eleanor Ileen",female,1.0,3,Survived
+184,"Becker, Master. Richard F",male,1.0,2,Survived
+185,"Kink-Heilmann, Miss. Luise Gretchen",female,4.0,3,Survived
+187,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,,3,Survived
+188,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45.0,1,Survived
+191,"Pinsky, Mrs. (Rosa)",female,32.0,2,Survived
+193,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19.0,3,Survived
+194,"Navratil, Master. Michel M",male,3.0,2,Survived
+195,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44.0,1,Survived
+196,"Lurette, Miss. Elise",female,58.0,1,Survived
+199,"Madigan, Miss. Margaret ""Maggie""",female,,3,Survived
+205,"Cohen, Mr. Gurshon ""Gus""",male,18.0,3,Survived
+208,"Albimona, Mr. Nassef Cassem",male,26.0,3,Survived
+209,"Carr, Miss. Helen ""Ellen""",female,16.0,3,Survived
+210,"Blank, Mr. Henry",male,40.0,1,Survived
+212,"Cameron, Miss. Clear Annie",female,35.0,2,Survived
+216,"Newell, Miss. Madeleine",female,31.0,1,Survived
+217,"Honkanen, Miss. Eliina",female,27.0,3,Survived
+219,"Bazzani, Miss. Albina",female,32.0,1,Survived
+221,"Sunderland, Mr. Victor Francis",male,16.0,3,Survived
+225,"Hoyt, Mr. Frederick Maxfield",male,38.0,1,Survived
+227,"Mellors, Mr. William John",male,19.0,2,Survived
+231,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35.0,1,Survived
+234,"Asplund, Miss. Lillian Gertrud",female,5.0,3,Survived
+238,"Collyer, Miss. Marjorie ""Lottie""",female,8.0,2,Survived
+242,"Murphy, Miss. Katherine ""Kate""",female,,3,Survived
+248,"Hamalainen, Mrs. William (Anna)",female,24.0,2,Survived
+249,"Beckwith, Mr. Richard Leonard",male,37.0,1,Survived
+256,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29.0,3,Survived
+257,"Thorne, Mrs. Gertrude Maybelle",female,,1,Survived
+258,"Cherry, Miss. Gladys",female,30.0,1,Survived
+259,"Ward, Miss. Anna",female,35.0,1,Survived
+260,"Parrish, Mrs. (Lutie Davis)",female,50.0,2,Survived
+262,"Asplund, Master. Edvin Rojj Felix",male,3.0,3,Survived
+268,"Persson, Mr. Ernst Ulrik",male,25.0,3,Survived
+269,"Graham, Mrs. William Thompson (Edith Junkins)",female,58.0,1,Survived
+270,"Bissette, Miss. Amelia",female,35.0,1,Survived
+272,"Tornquist, Mr. William Henry",male,25.0,3,Survived
+273,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41.0,2,Survived
+275,"Healy, Miss. Hanora ""Nora""",female,,3,Survived
+276,"Andrews, Miss. Kornelia Theodosia",female,63.0,1,Survived
+280,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35.0,3,Survived
+284,"Dorking, Mr. Edward Arthur",male,19.0,3,Survived
+287,"de Mulder, Mr. Theodore",male,30.0,3,Survived
+289,"Hosono, Mr. Masabumi",male,42.0,2,Survived
+290,"Connolly, Miss. Kate",female,22.0,3,Survived
+291,"Barber, Miss. Ellen ""Nellie""",female,26.0,1,Survived
+292,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19.0,1,Survived
+299,"Saalfeld, Mr. Adolphe",male,,1,Survived
+300,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50.0,1,Survived
+301,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,,3,Survived
+302,"McCoy, Mr. Bernard",male,,3,Survived
+304,"Keane, Miss. Nora A",female,,2,Survived
+306,"Allison, Master. Hudson Trevor",male,0.92,1,Survived
+307,"Fleming, Miss. Margaret",female,,1,Survived
+308,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17.0,1,Survived
+310,"Francatelli, Miss. Laura Mabel",female,30.0,1,Survived
+311,"Hays, Miss. Margaret Bechstein",female,24.0,1,Survived
+312,"Ryerson, Miss. Emily Borie",female,18.0,1,Survived
+316,"Nilsson, Miss. Helmina Josefina",female,26.0,3,Survived
+317,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24.0,2,Survived
+319,"Wick, Miss. Mary Natalie",female,31.0,1,Survived
+320,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40.0,1,Survived
+323,"Slayter, Miss. Hilda Mary",female,30.0,2,Survived
+324,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22.0,2,Survived
+326,"Young, Miss. Marie Grice",female,36.0,1,Survived
+328,"Ball, Mrs. (Ada E Hall)",female,36.0,2,Survived
+329,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31.0,3,Survived
+330,"Hippach, Miss. Jean Gertrude",female,16.0,1,Survived
+331,"McCoy, Miss. Agnes",female,,3,Survived
+335,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,,1,Survived
+338,"Burns, Miss. Elizabeth Margaret",female,41.0,1,Survived
+339,"Dahl, Mr. Karl Edwart",male,45.0,3,Survived
+341,"Navratil, Master. Edmond Roger",male,2.0,2,Survived
+342,"Fortune, Miss. Alice Elizabeth",female,24.0,1,Survived
+346,"Brown, Miss. Amelia ""Mildred""",female,24.0,2,Survived
+347,"Smith, Miss. Marion Elsie",female,40.0,2,Survived
+348,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,,3,Survived
+349,"Coutts, Master. William Loch ""William""",male,3.0,3,Survived
+357,"Bowerman, Miss. Elsie Edith",female,22.0,1,Survived
+359,"McGovern, Miss. Mary",female,,3,Survived
+360,"Mockler, Miss. Helen Mary ""Ellie""",female,,3,Survived
+367,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60.0,1,Survived
+368,"Moussa, Mrs. (Mantoura Boulos)",female,,3,Survived
+369,"Jermyn, Miss. Annie",female,,3,Survived
+370,"Aubart, Mme. Leontine Pauline",female,24.0,1,Survived
+371,"Harder, Mr. George Achilles",male,25.0,1,Survived
+376,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,,1,Survived
+377,"Landergren, Miss. Aurora Adelia",female,22.0,3,Survived
+381,"Bidois, Miss. Rosalie",female,42.0,1,Survived
+382,"Nakid, Miss. Maria (""Mary"")",female,1.0,3,Survived
+384,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35.0,1,Survived
+388,"Buss, Miss. Kate",female,36.0,2,Survived
+390,"Lehmann, Miss. Bertha",female,17.0,2,Survived
+391,"Carter, Mr. William Ernest",male,36.0,1,Survived
+392,"Jansson, Mr. Carl Olof",male,21.0,3,Survived
+394,"Newell, Miss. Marjorie",female,23.0,1,Survived
+395,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24.0,3,Survived
+400,"Trout, Mrs. William H (Jessie L)",female,28.0,2,Survived
+401,"Niskanen, Mr. Juha",male,39.0,3,Survived
+408,"Richards, Master. William Rowe",male,3.0,2,Survived
+413,"Minahan, Miss. Daisy E",female,33.0,1,Survived
+415,"Sundman, Mr. Johan Julian",male,44.0,3,Survived
+417,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34.0,2,Survived
+418,"Silven, Miss. Lyyli Karoliina",female,18.0,2,Survived
+427,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28.0,2,Survived
+428,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19.0,2,Survived
+430,"Pickard, Mr. Berk (Berk Trembisky)",male,32.0,3,Survived
+431,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28.0,1,Survived
+432,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,,3,Survived
+433,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42.0,2,Survived
+436,"Carter, Miss. Lucile Polk",female,14.0,1,Survived
+438,"Richards, Mrs. Sidney (Emily Hocking)",female,24.0,2,Survived
+441,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45.0,2,Survived
+444,"Reynaldo, Ms. Encarnacion",female,28.0,2,Survived
+445,"Johannesen-Bratthammer, Mr. Bernt",male,,3,Survived
+446,"Dodge, Master. Washington",male,4.0,1,Survived
+447,"Mellinger, Miss. Madeleine Violet",female,13.0,2,Survived
+448,"Seward, Mr. Frederic Kimber",male,34.0,1,Survived
+449,"Baclini, Miss. Marie Catherine",female,5.0,3,Survived
+450,"Peuchen, Major. Arthur Godfrey",male,52.0,1,Survived
+454,"Goldenberg, Mr. Samuel L",male,49.0,1,Survived
+456,"Jalsevac, Mr. Ivan",male,29.0,3,Survived
+458,"Kenyon, Mrs. Frederick R (Marion)",female,,1,Survived
+459,"Toomey, Miss. Ellen",female,50.0,2,Survived
+461,"Anderson, Mr. Harry",male,48.0,1,Survived
+470,"Baclini, Miss. Helene Barbara",female,0.75,3,Survived
+473,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33.0,2,Survived
+474,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23.0,2,Survived
+480,"Hirvonen, Miss. Hildur E",female,2.0,3,Survived
+484,"Turkula, Mrs. (Hedwig)",female,63.0,3,Survived
+485,"Bishop, Mr. Dickinson H",male,25.0,1,Survived
+487,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35.0,1,Survived
+490,"Coutts, Master. Eden Leslie ""Neville""",male,9.0,3,Survived
+497,"Eustis, Miss. Elizabeth Mussey",female,54.0,1,Survived
+505,"Maioni, Miss. Roberta",female,16.0,1,Survived
+507,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33.0,2,Survived
+508,"Bradley, Mr. George (""George Arthur Brayton"")",male,,1,Survived
+510,"Lang, Mr. Fang",male,26.0,3,Survived
+511,"Daly, Mr. Eugene Patrick",male,29.0,3,Survived
+513,"McGough, Mr. James Robert",male,36.0,1,Survived
+514,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54.0,1,Survived
+517,"Lemore, Mrs. (Amelia Milley)",female,34.0,2,Survived
+519,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36.0,2,Survived
+521,"Perreault, Miss. Anne",female,30.0,1,Survived
+524,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44.0,1,Survived
+527,"Ridsdale, Miss. Lucy",female,50.0,2,Survived
+531,"Quick, Miss. Phyllis May",female,2.0,2,Survived
+534,"Peter, Mrs. Catherine (Catherine Rizk)",female,,3,Survived
+536,"Hart, Miss. Eva Miriam",female,7.0,2,Survived
+538,"LeRoy, Miss. Bertha",female,30.0,1,Survived
+540,"Frolicher, Miss. Hedwig Margaritha",female,22.0,1,Survived
+541,"Crosby, Miss. Harriet R",female,36.0,1,Survived
+544,"Beane, Mr. Edward",male,32.0,2,Survived
+547,"Beane, Mrs. Edward (Ethel Clarke)",female,19.0,2,Survived
+548,"Padro y Manent, Mr. Julian",male,,2,Survived
+550,"Davies, Master. John Morgan Jr",male,8.0,2,Survived
+551,"Thayer, Mr. John Borland Jr",male,17.0,1,Survived
+554,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22.0,3,Survived
+555,"Ohman, Miss. Velin",female,22.0,3,Survived
+557,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48.0,1,Survived
+559,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39.0,1,Survived
+560,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36.0,3,Survived
+570,"Jonsson, Mr. Carl",male,32.0,3,Survived
+571,"Harris, Mr. George",male,62.0,2,Survived
+572,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53.0,1,Survived
+573,"Flynn, Mr. John Irwin (""Irving"")",male,36.0,1,Survived
+574,"Kelly, Miss. Mary",female,,3,Survived
+577,"Garside, Miss. Ethel",female,34.0,2,Survived
+578,"Silvey, Mrs. William Baird (Alice Munger)",female,39.0,1,Survived
+580,"Jussila, Mr. Eiriik",male,32.0,3,Survived
+581,"Christy, Miss. Julie Rachel",female,25.0,2,Survived
+582,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39.0,1,Survived
+586,"Taussig, Miss. Ruth",female,18.0,1,Survived
+588,"Frolicher-Stehli, Mr. Maxmillian",male,60.0,1,Survived
+592,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52.0,1,Survived
+597,"Leitch, Miss. Jessie Wills",female,,2,Survived
+600,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49.0,1,Survived
+601,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24.0,2,Survived
+605,"Homer, Mr. Harry (""Mr E Haven"")",male,35.0,1,Survived
+608,"Daniel, Mr. Robert Williams",male,27.0,1,Survived
+609,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22.0,2,Survived
+610,"Shutes, Miss. Elizabeth W",female,40.0,1,Survived
+613,"Murphy, Miss. Margaret Jane",female,,3,Survived
+616,"Herman, Miss. Alice",female,24.0,2,Survived
+619,"Becker, Miss. Marion Louise",female,4.0,2,Survived
+622,"Kimball, Mr. Edwin Nelson Jr",male,42.0,1,Survived
+623,"Nakid, Mr. Sahid",male,20.0,3,Survived
+628,"Longley, Miss. Gretchen Fiske",female,21.0,1,Survived
+631,"Barkworth, Mr. Algernon Henry Wilson",male,80.0,1,Survived
+633,"Stahelin-Maeglin, Dr. Max",male,32.0,1,Survived
+636,"Davis, Miss. Mary",female,28.0,2,Survived
+642,"Sagesser, Mlle. Emma",female,24.0,1,Survived
+644,"Foo, Mr. Choong",male,,3,Survived
+645,"Baclini, Miss. Eugenie",female,0.75,3,Survived
+646,"Harper, Mr. Henry Sleeper",male,48.0,1,Survived
+648,"Simonius-Blumer, Col. Oberst Alfons",male,56.0,1,Survived
+650,"Stanley, Miss. Amy Zillah Elsie",female,23.0,3,Survived
+652,"Doling, Miss. Elsie",female,18.0,2,Survived
+654,"O'Leary, Miss. Hanora ""Norah""",female,,3,Survived
+661,"Frauenthal, Dr. Henry William",male,50.0,1,Survived
+665,"Lindqvist, Mr. Eino William",male,20.0,3,Survived
+670,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,,1,Survived
+671,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40.0,2,Survived
+674,"Wilhelms, Mr. Charles",male,31.0,2,Survived
+678,"Turja, Miss. Anna Sofia",female,18.0,3,Survived
+680,"Cardeza, Mr. Thomas Drake Martinez",male,36.0,1,Survived
+682,"Hassab, Mr. Hammad",male,27.0,1,Survived
+690,"Madill, Miss. Georgette Alexandra",female,15.0,1,Survived
+691,"Dick, Mr. Albert Adrian",male,31.0,1,Survived
+692,"Karun, Miss. Manca",female,4.0,3,Survived
+693,"Lam, Mr. Ali",male,,3,Survived
+698,"Mullens, Miss. Katherine ""Katie""",female,,3,Survived
+701,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18.0,1,Survived
+702,"Silverthorne, Mr. Spencer Victor",male,35.0,1,Survived
+707,"Kelly, Mrs. Florence ""Fannie""",female,45.0,2,Survived
+708,"Calderhead, Mr. Edward Pennington",male,42.0,1,Survived
+709,"Cleaver, Miss. Alice",female,22.0,1,Survived
+710,"Moubarek, Master. Halim Gonios (""William George"")",male,,3,Survived
+711,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24.0,1,Survived
+713,"Taylor, Mr. Elmer Zebley",male,48.0,1,Survived
+717,"Endres, Miss. Caroline Louise",female,38.0,1,Survived
+718,"Troutt, Miss. Edwina Celia ""Winnie""",female,27.0,2,Survived
+721,"Harper, Miss. Annie Jessie ""Nina""",female,6.0,2,Survived
+725,"Chambers, Mr. Norman Campbell",male,27.0,1,Survived
+727,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30.0,2,Survived
+728,"Mannion, Miss. Margareth",female,,3,Survived
+731,"Allen, Miss. Elisabeth Walton",female,29.0,1,Survived
+738,"Lesurer, Mr. Gustave J",male,35.0,1,Survived
+741,"Hawksford, Mr. Walter James",male,,1,Survived
+743,"Ryerson, Miss. Susan Parker ""Suzette""",female,21.0,1,Survived
+745,"Stranden, Mr. Juho",male,31.0,3,Survived
+748,"Sinkkonen, Miss. Anna",female,30.0,2,Survived
+751,"Wells, Miss. Joan",female,4.0,2,Survived
+752,"Moor, Master. Meier",male,6.0,3,Survived
+755,"Herman, Mrs. Samuel (Jane Laver)",female,48.0,2,Survived
+756,"Hamalainen, Master. Viljo",male,0.67,2,Survived
+760,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33.0,1,Survived
+763,"Barah, Mr. Hanna Assi",male,20.0,3,Survived
+764,"Carter, Mrs. William Ernest (Lucile Polk)",female,36.0,1,Survived
+766,"Hogeboom, Mrs. John C (Anna Andrews)",female,51.0,1,Survived
+775,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54.0,2,Survived
+778,"Emanuel, Miss. Virginia Ethel",female,5.0,3,Survived
+780,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43.0,1,Survived
+781,"Ayoub, Miss. Banoura",female,13.0,3,Survived
+782,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17.0,1,Survived
+787,"Sjoblom, Miss. Anna Sofia",female,18.0,3,Survived
+789,"Dean, Master. Bertram Vere",male,1.0,3,Survived
+797,"Leader, Dr. Alice (Farnham)",female,49.0,1,Survived
+798,"Osman, Mrs. Mara",female,31.0,3,Survived
+802,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31.0,2,Survived
+803,"Carter, Master. William Thornton II",male,11.0,1,Survived
+804,"Thomas, Master. Assad Alexander",male,0.42,3,Survived
+805,"Hedman, Mr. Oskar Arvid",male,27.0,3,Survived
+810,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33.0,1,Survived
+821,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52.0,1,Survived
+822,"Lulic, Mr. Nikola",male,27.0,3,Survived
+824,"Moor, Mrs. (Beila)",female,27.0,3,Survived
+828,"Mallet, Master. Andre",male,1.0,2,Survived
+829,"McCormack, Mr. Thomas Joseph",male,,3,Survived
+830,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62.0,1,Survived
+831,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15.0,3,Survived
+832,"Richards, Master. George Sibley",male,0.83,2,Survived
+836,"Compton, Miss. Sara Rebecca",female,39.0,1,Survived
+839,"Chip, Mr. Chang",male,32.0,3,Survived
+840,"Marechal, Mr. Pierre",male,,1,Survived
+843,"Serepeca, Miss. Augusta",female,30.0,1,Survived
+850,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,,1,Survived
+854,"Lines, Miss. Mary Conover",female,16.0,1,Survived
+856,"Aks, Mrs. Sam (Leah Rosen)",female,18.0,3,Survived
+857,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45.0,1,Survived
+858,"Daly, Mr. Peter Denis ",male,51.0,1,Survived
+859,"Baclini, Mrs. Solomon (Latifa Qurban)",female,24.0,3,Survived
+863,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48.0,1,Survived
+866,"Bystrom, Mrs. (Karolina)",female,42.0,2,Survived
+867,"Duran y More, Miss. Asuncion",female,27.0,2,Survived
+870,"Johnson, Master. Harold Theodor",male,4.0,3,Survived
+872,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47.0,1,Survived
+875,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28.0,2,Survived
+876,"Najib, Miss. Adele Kiamie ""Jane""",female,15.0,3,Survived
+880,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56.0,1,Survived
+881,"Shelley, Mrs. William (Imanita Parrish Hall)",female,25.0,2,Survived
+888,"Graham, Miss. Margaret Edith",female,19.0,1,Survived
+890,"Behr, Mr. Karl Howell",male,26.0,1,Survived
