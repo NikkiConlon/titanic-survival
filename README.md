@@ -1,6 +1,6 @@
 # Titanic Survival Analysis & Prediction
 
-This project analyzes the Titanic dataset and predicts passenger survival using Python and machine learning.  
+This project analyses the Titanic dataset and predicts passenger survival using Python and machine learning.  
 
 It includes **data visualization**, **exploratory data analysis (EDA)**, and a **Logistic Regression model** for survival prediction.
 
